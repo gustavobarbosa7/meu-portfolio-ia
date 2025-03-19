@@ -1,0 +1,25 @@
+# Meu Portfólio de IA Gerativa
+
+## Introdução
+Neste projeto, utilizei tecnologias de IA gerativa para realizar reconhecimento de texto em imagens. O objetivo é demonstrar minha habilidade de aplicar modelos de IA no reconhecimento de texto, gerar insights e refletir sobre o aprendizado.
+
+## Estrutura do Repositório
+- **inputs/**: Contém as imagens originais que foram usadas no processo de reconhecimento de texto.
+- **output/**: Contém os resultados do reconhecimento de texto extraídos das imagens.
+
+## Processo
+1. **Imagem de entrada**: As imagens foram escolhidas com base na diversidade de textos que contêm (manuscritos, impressos, etc.).
+2. **Reconhecimento de Texto**: Utilizei [inserir ferramenta, por exemplo, OCR] para realizar o reconhecimento de texto.
+3. **Resultados**: Salvei os resultados do reconhecimento de texto na pasta de saída.
+
+## Insights
+Durante o processo, aprendi sobre os desafios de reconhecer texto em diferentes tipos de imagens, como qualidade da imagem e fontes manuscritas. Descobri também que as ferramentas de IA podem ser aprimoradas com mais treinamento em contextos específicos.
+
+## Possibilidades Futuras
+Com o avanço das tecnologias de IA, vejo um grande potencial em melhorar a acuracidade e a velocidade do reconhecimento de texto em imagens, além de explorar mais sobre as aplicações de IA generativa, como a criação de novos dados a partir de entradas mínimas.
+
+## Screenshots
+Adicionei alguns prints do processo e dos resultados para mostrar as etapas realizadas.
+
+## Conclusão
+Esse repositório serve como uma demonstração prática das habilidades adquiridas e do aprendizado com IA generativa.
